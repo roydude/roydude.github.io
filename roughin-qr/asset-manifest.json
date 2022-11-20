@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6dcffb6.css",
-    "main.js": "/static/js/main.e65e2d45.js",
+    "main.css": "/static/css/main.9d603524.css",
+    "main.js": "/static/js/main.a574b72f.js",
     "static/js/787.32490b36.chunk.js": "/static/js/787.32490b36.chunk.js",
     "static/media/Yoon YMjO 550_TT.eot?iefix": "/static/media/Yoon YMjO 550_TT.77cae8ce36b5247e2530.eot",
     "static/media/Yoon YMjO 520_TT.eot?iefix": "/static/media/Yoon YMjO 520_TT.b8522a00f2b8d3931bad.eot",
     "static/media/Yoon YMjO 530_TT.eot?iefix": "/static/media/Yoon YMjO 530_TT.182d3479a353e712103c.eot",
     "static/media/Yoon YMjO 540_TT.eot?iefix": "/static/media/Yoon YMjO 540_TT.c8a7646508c61480dac3.eot",
-    "static/media/Yoon YMjO 550_TT.ttf": "/static/media/Yoon YMjO 550_TT.927c2d16d294c736526e.ttf",
-    "static/media/Yoon YMjO 520_TT.ttf": "/static/media/Yoon YMjO 520_TT.08086a60d8bd8481c74c.ttf",
-    "static/media/Yoon YMjO 530_TT.ttf": "/static/media/Yoon YMjO 530_TT.d49bfc31f1c44266726e.ttf",
-    "static/media/Yoon YMjO 540_TT.ttf": "/static/media/Yoon YMjO 540_TT.89cd6eb9e64849f253c0.ttf",
     "static/media/Yoon YMjO 550_TT.woff": "/static/media/Yoon YMjO 550_TT.a42a3bd155858e3bb685.woff",
     "static/media/Yoon YMjO 540_TT.woff": "/static/media/Yoon YMjO 540_TT.75fa3c10daf94720266f.woff",
     "static/media/Yoon YMjO 530_TT.woff": "/static/media/Yoon YMjO 530_TT.6b1b5d81f7da1c7d67f4.woff",
@@ -19,17 +15,16 @@
     "static/media/Yoon YMjO 540_TT.woff2": "/static/media/Yoon YMjO 540_TT.566b0fa9052f1e967dad.woff2",
     "static/media/Yoon YMjO 530_TT.woff2": "/static/media/Yoon YMjO 530_TT.51b80b7d96be72806d55.woff2",
     "static/media/Yoon YMjO 520_TT.woff2": "/static/media/Yoon YMjO 520_TT.a585a7475cf22aa06c15.woff2",
-    "static/media/Gadugi.ttf": "/static/media/Gadugi.590073b28e5b8bc6f747.ttf",
     "static/media/Gadugi.eot?iefix": "/static/media/Gadugi.a568188b48a6bdaf8a9f.eot",
     "static/media/Gadugi.woff": "/static/media/Gadugi.46b58e123e4be27f4957.woff",
     "static/media/Gadugi.woff2": "/static/media/Gadugi.7258805980de10c827fd.woff2",
     "index.html": "/index.html",
-    "main.d6dcffb6.css.map": "/static/css/main.d6dcffb6.css.map",
-    "main.e65e2d45.js.map": "/static/js/main.e65e2d45.js.map",
+    "main.9d603524.css.map": "/static/css/main.9d603524.css.map",
+    "main.a574b72f.js.map": "/static/js/main.a574b72f.js.map",
     "787.32490b36.chunk.js.map": "/static/js/787.32490b36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6dcffb6.css",
-    "static/js/main.e65e2d45.js"
+    "static/css/main.9d603524.css",
+    "static/js/main.a574b72f.js"
   ]
 }
