@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7dcafc94.css",
-    "main.js": "/static/js/main.89c49338.js",
+    "main.js": "/static/js/main.b08f1f9a.js",
     "static/js/787.32490b36.chunk.js": "/static/js/787.32490b36.chunk.js",
     "static/media/Yoon YMjO 550_TT.eot?iefix": "/static/media/Yoon YMjO 550_TT.77cae8ce36b5247e2530.eot",
     "static/media/Yoon YMjO 520_TT.eot?iefix": "/static/media/Yoon YMjO 520_TT.b8522a00f2b8d3931bad.eot",
@@ -20,11 +20,11 @@
     "static/media/Gadugi.woff2": "/static/media/Gadugi.7258805980de10c827fd.woff2",
     "index.html": "/index.html",
     "main.7dcafc94.css.map": "/static/css/main.7dcafc94.css.map",
-    "main.89c49338.js.map": "/static/js/main.89c49338.js.map",
+    "main.b08f1f9a.js.map": "/static/js/main.b08f1f9a.js.map",
     "787.32490b36.chunk.js.map": "/static/js/787.32490b36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dcafc94.css",
-    "static/js/main.89c49338.js"
+    "static/js/main.b08f1f9a.js"
   ]
 }
